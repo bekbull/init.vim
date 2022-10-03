@@ -20,7 +20,7 @@ filetype plugin indent on " required
 syntax on
 set background=dark
 highlight ColorColumn ctermbg=0 guibg=lightgrey
-set number
+set number relativenumber
 set smartcase
 set hlsearch
 set noerrorbells
